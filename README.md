@@ -1,1 +1,1 @@
-tamaridance.gif
+./tamaridance.gif
